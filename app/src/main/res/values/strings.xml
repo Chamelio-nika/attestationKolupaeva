@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ForaccreditationKolupaeva</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scores">Счётчик яиц</string>
+    <string name="hello">Hello</string>
+    <string name="letgo_hello">Давай поздороваемся!</string>
+    <string name="records">Рекорды</string>
+    <string name="game">игра</string>
+    <string name="record">рекорды</string>
+    <string name="more_games">больше нормальных игр</string>
+    <string name="egg_text">Яйцо</string>
+</resources>
